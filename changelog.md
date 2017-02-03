@@ -9,7 +9,6 @@
 ### New Features
 - /last page displays page for last quote entry
 
-# Change Log
 ## [0.0.2] 2017-02-02
 ### New Features
 - /first page displays page for first quote entry
