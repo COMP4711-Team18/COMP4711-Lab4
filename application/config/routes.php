@@ -55,3 +55,4 @@ $route['translate_uri_dashes'] = FALSE;
 $route['lock/(:any)/(:any)'] = 'welcome/shucks';
 $route['show/(:num)'] = 'First/gimme/$1';
 $route['([a-zA-z]{4})/bingo'] = 'bingo';
+$route['comp([0-9]+)/(:any)'] = 'wise/bingo';
