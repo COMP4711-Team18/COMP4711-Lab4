@@ -10,12 +10,10 @@
 - /show/3 page displays page for third quote entry
 - added gimme($id) to First 
 
-# Change Log
 ## [0.0.3] 2017-02-03
 ### New Features
 - /last page displays page for last quote entry
 
-# Change Log
 ## [0.0.2] 2017-02-02
 ### New Features
 - /first page displays page for first quote entry
