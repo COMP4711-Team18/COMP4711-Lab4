@@ -5,6 +5,11 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.9] 2017-02-03
+### New Features
+- added /controllers/Hogwarts.php
+- added routing rule to redirect to Hogwarts.php as default homepage
+
 ## [0.0.8] 2017-02-03
 ### New Features
 - /sleep now displays Bob Monkhouse quote
