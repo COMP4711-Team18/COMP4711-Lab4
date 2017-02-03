@@ -5,6 +5,11 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.7] 2017-02-03
+### New Features
+- /comp4711/wisdom now displays quote for Isaac Asimov
+- comp + digits / * will display to wise/bingo page
+
 ## [0.0.6] 2017-02-03
 ### New Features
 - /wise/bingo now displays quote for Socrates
