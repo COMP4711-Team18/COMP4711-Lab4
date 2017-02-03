@@ -17,6 +17,10 @@
 
 ## [0.0.5] 2017-02-03
 ### New Features
+- /sleep now displays quote for Bob Monkhouse
+
+## [0.0.5] 2017-02-03
+### New Features
 - /lock/em/up now displays quote for Elaine Boosler
 
 ## [0.0.4] 2017-02-03
