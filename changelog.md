@@ -5,6 +5,11 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.6] 2017-02-03
+### New Features
+- /wise/bingo now displays quote for Socrates
+- any 4 letter word /bingo will link to /bingo page
+
 ## [0.0.5] 2017-02-03
 ### New Features
 - /lock/em/up now displays quote for Elaine Boosler
