@@ -5,6 +5,10 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.8] 2017-02-03
+### New Features
+- /sleep now displays Bob Monkhouse quote
+
 ## [0.0.7] 2017-02-03
 ### New Features
 - /comp4711/wisdom now displays quote for Isaac Asimov
