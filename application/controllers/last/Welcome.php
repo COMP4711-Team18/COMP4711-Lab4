@@ -18,7 +18,7 @@ class Welcome extends Application
 		// this is the view we want shown
 		$this->data['pagebody'] = 'justone';
 
-		// build the list of authors, to pass on to our view
+		// grab the last author and set it to the view
 		$record = $this->quotes->get(6);
                 $this->data = array_merge($this->data, $record);
                 
