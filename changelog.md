@@ -5,10 +5,14 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.5] 2017-02-03
+### New Features
+- /lock/em/up now displays quote for Elaine Boosler
+
 ## [0.0.4] 2017-02-03
 ### New Features
 - /show/3 page displays page for third quote entry
-- added gimme($id) to First 
+- added gimme($id) to First
 
 ## [0.0.3] 2017-02-03
 ### New Features
