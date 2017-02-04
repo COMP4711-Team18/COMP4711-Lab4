@@ -5,6 +5,11 @@
 - Billy Wong (ocis)
 
 # Change Log
+## [0.0.11] 2017-02-03
+### New Features
+- added "/dunno" link routing
+- added umasou.jpg
+
 ## [0.0.10] 2017-02-03
 ### New Features
 - added random() method to /controllers/Hogwarts.php

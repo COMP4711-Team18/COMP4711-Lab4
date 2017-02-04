@@ -57,3 +57,12 @@ $route['show/(:num)'] = 'First/gimme/$1';
 $route['([a-zA-z]{4})/bingo'] = 'bingo';
 $route['comp([0-9]+)/(:any)'] = 'wise/bingo';
 $route['sleep'] = 'First/zzz';
+$route['dunno'] = 
+    function() {
+        $source = '../data/umasou.jpg'; // an image you provide, outside of "public"!
+        // set the mime type for that image (jpeg, png, etc)
+        header("Content-type: image/jpeg"); 
+        header('Content-Disposition: inline');
+        readfile($source); // dish it
+        die(); // and we don't have to go any further
+    }; 
