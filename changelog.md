@@ -10,7 +10,6 @@
 - added random() method to /controllers/Hogwarts.php
 - added routing rule to redirect 404 errors to a randomly generated quote
 
-# Change Log
 ## [0.0.9] 2017-02-03
 ### New Features
 - added /controllers/Hogwarts.php
