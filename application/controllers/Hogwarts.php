@@ -29,4 +29,16 @@ class Hogwarts extends Application
 
 		$this->render();
 	}
+        public function random() {
+                $this->data['pagebody'] = 'justone';
+
+		// build the list of authors, to pass on to our view
+		$source = $this->quotes->all();
+                $randNum = array_rand($source, 1);
+		$record = $this->quotes->get($randNum);
+            
+		$this->data = array_merge($this->data, $record);
+
+		$this->render();
+        }
 }
